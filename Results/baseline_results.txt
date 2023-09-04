@@ -1,0 +1,206 @@
+##### Train Validation Small
+
+
+##### Train Validation Full
+
+Beta = 1e-05
+Train Precision at 10 Value =0.09267065715741211
+Train Precision at 50 Value =0.08376464595007643
+Train Precision at 100 Value =0.07569154355578195
+Validation Precision at 10 Value =0.05022758882286001
+Validation Precision at 50 Value =0.0447970666329498
+Validation Precision at 100 Value =0.0399266658237451
+
+Beta = 5e-05
+Train Precision at 10 Value =0.09267065715741218
+Train Precision at 50 Value =0.0837646459500764
+Train Precision at 100 Value =0.07567880794701987
+Validation Precision at 10 Value =0.05022758882286003
+Validation Precision at 50 Value =0.04479706663294981
+Validation Precision at 100 Value =0.039932987735491206
+
+Beta = 0.0001
+Train Precision at 10 Value =0.09267065715741211
+Train Precision at 50 Value =0.08376464595007642
+Train Precision at 100 Value =0.07565333672949569
+Validation Precision at 10 Value =0.05022758882286003
+Validation Precision at 50 Value =0.04479706663294981
+Validation Precision at 100 Value =0.03984574535339488
+
+Beta = 0.0005
+Train Precision at 10 Value =0.09106597045338768
+Train Precision at 50 Value =0.08167855323484466
+Train Precision at 100 Value =0.07444854814060116
+Validation Precision at 10 Value =0.04906435706157543
+Validation Precision at 50 Value =0.044030850929321026
+Validation Precision at 100 Value =0.03963206473637628
+
+Beta = 0.001
+Train Precision at 10 Value =0.07438232297503823
+Train Precision at 50 Value =0.0716760061130922
+Train Precision at 100 Value =0.06512862964849722
+Validation Precision at 10 Value =0.043286129725629036
+Validation Precision at 50 Value =0.041577949171829554
+Validation Precision at 100 Value =0.037755721330130214
+
+Beta = 0.005
+Train Precision at 10 Value =0.010876209882832399
+Train Precision at 50 Value =0.008922567498726438
+Train Precision at 100 Value =0.008210646968925116
+Validation Precision at 10 Value =0.026602604627639397
+Validation Precision at 50 Value =0.021615880642306236
+Validation Precision at 100 Value =0.018636995827538253
+
+Beta = 0.01
+Train Precision at 10 Value =0.0052470708099847186
+Train Precision at 50 Value =0.005491594498217016
+Train Precision at 100 Value =0.004798777381558838
+Validation Precision at 10 Value =0.01149955746617777
+Validation Precision at 50 Value =0.012590719433556703
+Validation Precision at 100 Value =0.01126185358452396
+
+Beta = 0.05
+Train Precision at 10 Value =0.0017511462047885892
+Train Precision at 50 Value =0.0014671421293937855
+Train Precision at 100 Value =0.0013512480896586856
+Validation Precision at 10 Value =0.001106334555569604
+Validation Precision at 50 Value =0.0008370211151852321
+Validation Precision at 100 Value =0.0008193197622961183
+
+Beta = 0.1
+Train Precision at 10 Value =0.0012098828323993886
+Train Precision at 50 Value =0.0010163015792154864
+Train Precision at 100 Value =0.0008354559347936832
+Validation Precision at 10 Value =0.0008281704387406752
+Validation Precision at 50 Value =0.0005588569983563031
+Validation Precision at 100 Value =0.0003995448223542799
+
+##### Train Test
+
+Beta = 1e-07
+Train Precision at 10 Value =0.10574029586546972
+Train Precision at 50 Value =0.09599696548236186
+Train Precision at 100 Value =0.08728157794917182
+Validation Precision at 10 Value =0.006189473684210526
+Validation Precision at 50 Value =0.008575438596491226
+Validation Precision at 100 Value =0.008809824561403506
+
+Beta = 5e-07
+Train Precision at 10 Value =0.10574029586546972
+Train Precision at 50 Value =0.09599696548236182
+Train Precision at 100 Value =0.08728157794917184
+Validation Precision at 10 Value =0.006189473684210526
+Validation Precision at 50 Value =0.008575438596491227
+Validation Precision at 100 Value =0.008809824561403508
+
+Beta = 1e-06
+Train Precision at 10 Value =0.10574029586546975
+Train Precision at 50 Value =0.09599696548236185
+Train Precision at 100 Value =0.08728157794917182
+Validation Precision at 10 Value =0.006189473684210526
+Validation Precision at 50 Value =0.008575438596491227
+Validation Precision at 100 Value =0.008809824561403508
+
+Beta = 5e-06
+Train Precision at 10 Value =0.10574029586546971
+Train Precision at 50 Value =0.09599696548236186
+Train Precision at 100 Value =0.08728157794917184
+Validation Precision at 10 Value =0.006189473684210526
+Validation Precision at 50 Value =0.00857543859649123
+Validation Precision at 100 Value =0.008809824561403508
+
+Beta = 1e-05
+Train Precision at 10 Value =0.10574029586546968
+Train Precision at 50 Value =0.09599696548236182
+Train Precision at 100 Value =0.08728157794917182
+Validation Precision at 10 Value =0.006189473684210527
+Validation Precision at 50 Value =0.008575438596491227
+Validation Precision at 100 Value =0.008809824561403508
+
+Beta = 5e-05
+Train Precision at 10 Value =0.10574029586546971
+Train Precision at 50 Value =0.09596914907067897
+Train Precision at 100 Value =0.08728157794917185
+Validation Precision at 10 Value =0.006189473684210525
+Validation Precision at 50 Value =0.007736140350877193
+Validation Precision at 100 Value =0.008809824561403508
+
+Beta = 0.0001
+Train Precision at 10 Value =0.10574029586546971
+Train Precision at 50 Value =0.095969149070679
+Train Precision at 100 Value =0.08721077253761539
+Validation Precision at 10 Value =0.006189473684210526
+Validation Precision at 50 Value =0.007736140350877193
+Validation Precision at 100 Value =0.00895438596491228
+
+Beta = 0.0005
+Train Precision at 10 Value =0.10172588190668863
+Train Precision at 50 Value =0.09073460614489823
+Train Precision at 100 Value =0.08313440384372235
+Validation Precision at 10 Value =0.006919298245614037
+Validation Precision at 50 Value =0.008300350877192981
+Validation Precision at 100 Value =0.009660350877192983
+
+Beta = 0.001
+Train Precision at 10 Value =0.06069035276267545
+Train Precision at 50 Value =0.060745985586041204
+Train Precision at 100 Value =0.05853963838664811
+Validation Precision at 10 Value =0.01769824561403509
+Validation Precision at 50 Value =0.01580350877192982
+Validation Precision at 100 Value =0.014355087719298243
+
+Beta = 0.005
+Train Precision at 10 Value =0.030926792261980026
+Train Precision at 50 Value =0.026149955746617777
+Train Precision at 100 Value =0.02304463269692755
+Validation Precision at 10 Value =0.026224561403508772
+Validation Precision at 50 Value =0.020314385964912276
+Validation Precision at 100 Value =0.017590175438596485
+
+Beta = 0.01
+Train Precision at 10 Value =0.01854216715134657
+Train Precision at 50 Value =0.01626754330509546
+Train Precision at 100 Value =0.015364774307750666
+Validation Precision at 10 Value =0.020771929824561403
+Validation Precision at 50 Value =0.01627228070175439
+Validation Precision at 100 Value =0.014178245614035086
+
+Beta = 0.005
+Train Precision at 10 Value =0.030926792261980026
+Train Precision at 50 Value =0.026149955746617777
+Train Precision at 100 Value =0.02304463269692755
+Validation Precision at 10 Value =0.026224561403508772
+Validation Precision at 50 Value =0.020314385964912276
+Validation Precision at 100 Value =0.017590175438596485
+
+Beta = 0.01
+Train Precision at 10 Value =0.01854216715134657
+Train Precision at 50 Value =0.01626754330509546
+Train Precision at 100 Value =0.015364774307750666
+Validation Precision at 10 Value =0.020771929824561403
+Validation Precision at 50 Value =0.01627228070175439
+Validation Precision at 100 Value =0.014178245614035086
+
+Beta = 0.05
+Train Precision at 10 Value =0.00896447085598685
+Train Precision at 50 Value =0.00756606397774687
+Train Precision at 100 Value =0.006402832216462259
+Validation Precision at 10 Value =0.015347368421052632
+Validation Precision at 50 Value =0.011567719298245615
+Validation Precision at 100 Value =0.00941614035087719
+
+Beta = 0.1
+Train Precision at 10 Value =0.004172461752433935
+Train Precision at 50 Value =0.0032772790491844735
+Train Precision at 100 Value =0.002579339992413706
+Validation Precision at 10 Value =0.007228070175438597
+Validation Precision at 50 Value =0.005585964912280702
+Validation Precision at 100 Value =0.0037094736842105255
+
+Beta = 0.5
+Train Precision at 10 Value =0.001137944114300165
+Train Precision at 50 Value =0.0008698950562650147
+Train Precision at 100 Value =0.0006878239979769881
+Validation Precision at 10 Value =0.00011929824561403507
+Validation Precision at 50 Value =5.3333333333333326e-05
+Validation Precision at 100 Value =4.350877192982455e-05

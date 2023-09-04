@@ -1,0 +1,191 @@
+RESULTS
+
+
+LightFM Training Time: 650.4728407859802
+Parameters
+	Loss: warp
+	Epochs: 5
+	Num of Components: 10
+	Alpha: 0.1
+	Precision at: 100
+Result: 0.19328449666500092
+Time to evaluate: 5145.804516792297
+
+
+---*------*------*------*------*---Multi Param Search---*------*------*------*------*---
+LightFM Training Time: 1931.2726519107819
+Parameters
+	Loss: warp
+	Epochs: 50
+	Num of Components: 10
+	Alpha: 0.01
+	Precision at: 10
+Result: 0.4625670909881592
+Time to evaluate: 1478.9722349643707
+
+
+LightFM Training Time: 744.9390795230865
+Parameters
+	Loss: warp
+	Epochs: 5
+	Num of Components: 10
+	Alpha: 0.5
+	Precision at: 100
+Result: 0.19489173591136932
+Time to evaluate: 5193.465879201889
+
+
+---*------*------*------*------*---Multi Param Search---*------*------*------*------*---
+LightFM Training Time: 1897.5485939979553
+Parameters
+	Loss: warp
+	Epochs: 50
+	Num of Components: 10
+	Alpha: 0.01
+	Precision at: 50
+Result: 0.2237846404314041
+Time to evaluate: 1470.5936224460602
+
+
+---*------*------*------*------*---Multi Param Search---*------*------*------*------*---
+LightFM Training Time: 766.3538610935211
+Parameters
+	Loss: warp
+	Epochs: 20
+	Num of Components: 10
+	Alpha: 0.01
+	Precision at: 100
+Result: 0.11632999777793884
+Time to evaluate: 1469.1623048782349
+
+
+---*------*------*------*------*---Multi Param Search---*------*------*------*------*---
+LightFM Training Time: 760.5226469039917
+Parameters
+	Loss: warp
+	Epochs: 20
+	Num of Components: 10
+	Alpha: 0.1
+	Precision at: 10
+Result: 0.458910197019577
+Time to evaluate: 1466.3730473518372
+
+
+---*------*------*------*------*---Multi Param Search---*------*------*------*------*---
+LightFM Training Time: 751.5691304206848
+Parameters
+	Loss: warp
+	Epochs: 20
+	Num of Components: 10
+	Alpha: 0.1
+	Precision at: 50
+Result: 0.21988971531391144
+Time to evaluate: 1477.1782312393188
+
+
+---*------*------*------*------*---Multi Param Search---*------*------*------*------*---
+LightFM Training Time: 759.28142619133
+Parameters
+	Loss: warp
+	Epochs: 20
+	Num of Components: 10
+	Alpha: 0.1
+	Precision at: 100
+Result: 0.11513567715883255
+Time to evaluate: 1567.0249297618866
+
+
+---*------*------*------*------*---Multi Param Search---*------*------*------*------*---
+LightFM Training Time: 763.659093618393
+Parameters
+	Loss: warp
+	Epochs: 20
+	Num of Components: 10
+	Alpha: 0.5
+	Precision at: 10
+Result: 0.4505804479122162
+Time to evaluate: 1558.6035587787628
+
+
+---*------*------*------*------*---Multi Param Search---*------*------*------*------*---
+LightFM Training Time: 765.7777490615845
+Parameters
+	Loss: warp
+	Epochs: 20
+	Num of Components: 10
+	Alpha: 0.5
+	Precision at: 50
+Result: 0.22264401614665985
+Time to evaluate: 1562.717003107071
+
+
+---*------*------*------*------*---Multi Param Search---*------*------*------*------*---
+LightFM Training Time: 820.2084844112396
+Parameters
+	Loss: warp
+	Epochs: 20
+	Num of Components: 10
+	Alpha: 0.5
+	Precision at: 100
+Result: 0.11619649082422256
+Time to evaluate: 1575.1244668960571
+
+
+---*------*------*------*------*---Multi Param Search---*------*------*------*------*---
+LightFM Training Time: 1128.5438635349274
+Parameters
+	Loss: warp
+	Epochs: 20
+	Num of Components: 50
+	Alpha: 0.01
+	Precision at: 10
+Result: 0.4621172845363617
+Time to evaluate: 2394.4447450637817
+
+
+---*------*------*------*------*---Multi Param Search---*------*------*------*------*---
+LightFM Training Time: 1097.670036315918
+Parameters
+	Loss: warp
+	Epochs: 20
+	Num of Components: 50
+	Alpha: 0.01
+	Precision at: 50
+Result: 0.22318966686725616
+Time to evaluate: 2321.3501002788544
+
+
+---*------*------*------*------*---Multi Param Search---*------*------*------*------*---
+LightFM Training Time: 905.5863583087921
+Parameters
+	Loss: warp
+	Epochs: 20
+	Num of Components: 20
+	Alpha: 0.01
+	Precision at: 50
+Result: 0.22265562415122986
+Time to evaluate: 2176.077897787094
+
+
+---*------*------*------*------*---Multi Param Search---*------*------*------*------*---
+LightFM Training Time: 904.7296164035797
+Parameters
+	Loss: warp
+	Epochs: 20
+	Num of Components: 20
+	Alpha: 0.01
+	Precision at: 100
+Result: 0.11637642234563828
+Time to evaluate: 2146.5767505168915
+
+
+---*------*------*------*------*---Multi Param Search---*------*------*------*------*---
+LightFM Training Time: 910.7507019042969
+Parameters
+	Loss: warp
+	Epochs: 20
+	Num of Components: 20
+	Alpha: 0.1
+	Precision at: 10
+Result: 0.4530112147331238
+Time to evaluate: 2171.37756896019

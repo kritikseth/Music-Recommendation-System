@@ -1,0 +1,115 @@
+Rank                         : 10
+Regularization Parameter     : 0.01
+Time to fit model            : 0.1265569700000002
+Mean Average Precision       : 0.22626374033496857
+{'rmse': 10.501376152156341, 'meanAveragePrecision': 0.22626374033496857, 'meanAveragePrecisionAtK': 0.34008244820105366, 'precisionAtK': 0.3846659788496261, 'ndcgAtK': 0.4121354985669815, 'recallAtK': 0.09327254084992288}
+
+Rank                         : 50
+Regularization Parameter     : 0.01
+Time to fit model:  0.11818636100000024
+{'rmse': 10.861521697503663, 'meanAveragePrecision': 0.2373744407889711, 'meanAveragePrecisionAtK': 0.37453909832735804, 'precisionAtK': 0.4216275470724787, 'ndcgAtK': 0.45307726408928406, 'recallAtK': 0.09664921193034492}
+
+Rank                         : 10
+Regularization Parameter     : 0.1
+Time to fit model            : 0.06822551399999988
+Mean Average Precision       : 0.22655005672971187
+{'rmse': 10.602779884577036, 'meanAveragePrecision': 0.22655005672971187, 'meanAveragePrecisionAtK': 0.34051323058383925, 'precisionAtK': 0.38356977044106283, 'ndcgAtK': 0.4112889197129032, 'recallAtK': 0.093269167734788}
+
+Rank                         : 20
+Regularization Parameter     : 0.1
+Time to fit model            : 394.28502774238586
+Mean Average Precision       : 0.11909104571849372
+{'rmse': 10.690837242431076, 'meanAveragePrecision': 0.11909104571849372, 'meanAveragePrecisionAtK': 0.17634073383673818, 'precisionAtK': 0.19193964405468145, 'ndcgAtK': 0.2221965756163566, 'recallAtK': 0.10879543465764192}
+
+Rank                         : 35
+Regularization Parameter     : 0.1
+Time to fit model            : 485.21759843826294
+Mean Average Precision       : 0.23505279490389414
+{'rmse': 10.726731338641006, 'meanAveragePrecision': 0.23505279490389414, 'meanAveragePrecisionAtK': 0.3688485683443125, 'precisionAtK': 0.4146633995357235, 'ndcgAtK': 0.4462836551800369, 'recallAtK': 0.09595940379196033}     
+
+Rank                         : 50
+Regularization Parameter     : 0.1
+Time to fit model            : 2387.1195080280304
+Mean Average Precision       : 0.23725518689980962
+{'rmse': 10.74053705064638, 'meanAveragePrecision': 0.23725518689980962, 'meanAveragePrecisionAtK': 0.3746380874592121, 'precisionAtK': 0.4220531338663916, 'ndcgAtK': 0.4529609824751324, 'recallAtK': 0.0966452963022051}
+
+Rank                         : 10
+Regularization Parameter     : 0.2
+Time to fit model            : 0.05735372899999991
+Mean Average Precision       : 0.2265124897082924
+{'rmse': 10.445397495566892, 'meanAveragePrecision': 0.2265124897082924, 'meanAveragePrecisionAtK': 0.34147210246836246, 'precisionAtK': 0.3838019086922878, 'ndcgAtK': 0.4122850436183397, 'recallAtK': 0.09325464159659964}
+
+Rank                         : 20
+Regularization Parameter     : 0.2
+Time to fit model            : 0.08245880100000047
+Mean Average Precision       : 0.23074274384543925
+{'rmse': 10.517158753411406, 'meanAveragePrecision': 0.23074274384543925, 'meanAveragePrecisionAtK': 0.35486754290554473, 'precisionAtK': 0.40034820737683785, 'ndcgAtK': 0.4296783680999414, 'recallAtK': 0.09474325101507723}
+
+Rank                         : 35
+Regularization Parameter     : 0.2
+Time to fit model            : 1907.5437397956848
+Mean Average Precision       : 0.23456792157111783
+{'rmse': 10.515071732324502, 'meanAveragePrecision': 0.23456792157111783, 'meanAveragePrecisionAtK': 0.3681965637352104, 'precisionAtK': 0.41319319061129733, 'ndcgAtK': 0.44509879297024235, 'recallAtK': 0.09589104164183412}
+
+
+Latent Factor Train Test Results
+Rank                         : 35
+Regularization Parameter     : 0.2
+Time to fit model            : 0.2796380439999995
+Mean Average Precision       : 0.18409662417409034
+{'rmse': 18.488929078531314, 'meanAveragePrecision': 0.18409662417409034, 'meanAveragePrecisionAtK': 0.28547106681861556, 'precisionAtK': 0.336375321336761, 'ndcgAtK': 0.354320433796075, 'recallAtK': 0.07119690212564157}
+
+
+#################################################################################################################################################
+
+Baseline Model Results:
+
+Small Data
+Beta = 1e-05
+Train MAP Value = 0.00030360716128780484
+Validation MAP Value = 0.00023817868846834854
+
+Train Validation
+Beta = 0.001
+Train MAP Value = 0.0004502026769931968
+Validation MAP Value = 0.0003992414537338164
+
+Train Test
+Beta = 0.005
+Train MAP Value =0.00012002773370791412
+Validation MAP Value =0.000133666551937669
+
+#################################################################################################################################################
+
+Latent factor Model Results:
+
+Small Data
+Rank                         : 35
+Regularization Parameter     : 0.2
+Time to fit model            : 179.8226137161255
+Time to evaluate model       : 0.1209099292755127
+Mean Average Precision       : 0.3721539923015812
+{'rmse': 8.152599593221485, 'meanAveragePrecision': 0.3721539923015812, 'meanAveragePrecisionAtK': 0.5720564581066205, 'precisionAtK': 0.6102245862884161, 'ndcgAtK': 0.6473427541044563, 'recallAtK': 0.13436594817359468}
+
+Train Validation
+Rank                         : 35
+Regularization Parameter     : 0.2
+Time to fit model            : 483.62132239341736
+Time to evaluate model       : 0.10326457023620605
+Mean Average Precision       : 0.23455510016173936
+{'rmse': 10.515073478755422, 'meanAveragePrecision': 0.23455510016173936, 'meanAveragePrecisionAtK': 0.3681372884177889, 'precisionAtK': 0.4132963631673974, 'ndcgAtK': 0.44488548022214824, 'recallAtK': 0.09585675195459127}
+
+Train Test
+
+
+#################################################################################################################################################
+
+LightFM Model Results:
+
+Small Data
+
+
+Train Validation
+
+
+Train Test

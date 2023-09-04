@@ -1,0 +1,149 @@
+RESULTS
+LightFM Training Time: 4099.386157512665
+Parameters
+	Loss: warp
+	Epochs: 20
+	Num of Components: 50
+	Alpha: 0.01
+	Precision at: 100
+mAP Train: 0.3083639144897461
+Time to evaluate Train: 11806.101931810379
+
+
+mAP Test: 0.2060403674840927
+Time to evaluate Test: 7007.8094363212585
+
+
+LightFM Training Time: 3876.168836593628
+Parameters
+	Loss: warp
+	Epochs: 20
+	Num of Components: 50
+	Alpha: 0.1
+	Precision at: 100
+mAP Train: 0.33003538846969604
+Time to evaluate Train: 11481.043357372284
+
+
+mAP Test: 0.22024734318256378
+Time to evaluate Test: 6688.359767913818
+
+
+LightFM Training Time: 5527.05215883255
+Parameters
+	Loss: warp
+	Epochs: 20
+	Num of Components: 100
+	Alpha: 0.01
+	Precision at: 10
+mAP Train: 0.7445568442344666
+Time to evaluate Train: 18162.658823490143
+
+
+mAP Test: 0.6430793404579163
+Time to evaluate Test: 10534.278010606766
+
+
+LightFM Training Time: 4341.811970710754
+Parameters
+	Loss: warp
+	Epochs: 20
+	Num of Components: 50
+	Alpha: 0.01
+	Precision at: 10
+mAP Train: 0.7533063292503357
+Time to evaluate Train: 15019.529715538025
+
+
+mAP Test: 0.6526646018028259
+Time to evaluate Test: 7392.644932508469
+
+
+LightFM Training Time: 5111.2245371341705
+Parameters
+	Loss: warp
+	Epochs: 20
+	Num of Components: 100
+	Alpha: 0.01
+	Precision at: 50
+mAP Train: 0.5065469741821289
+Time to evaluate Train: 17629.30898332596
+
+
+mAP Test: 0.37101125717163086
+Time to evaluate Test: 10543.738460540771
+
+
+LightFM Training Time: 4845.093525886536
+Parameters
+	Loss: warp
+	Epochs: 20
+	Num of Components: 50
+	Alpha: 0.01
+	Precision at: 50
+mAP Train: 0.5029839277267456
+Time to evaluate Train: 12607.855052947998
+
+
+mAP Test: 0.36780285835266113
+Time to evaluate Test: 6923.308202266693
+
+
+LightFM Training Time: 5144.733444690704
+Parameters
+	Loss: warp
+	Epochs: 20
+	Num of Components: 100
+	Alpha: 0.01
+	Precision at: 100
+mAP Train: 0.3179883658885956
+Time to evaluate Train: 18071.574769496918
+
+
+mAP Test: 0.21210256218910217
+Time to evaluate Test: 10856.290126085281
+
+
+LightFM Training Time: 3703.453531742096
+Parameters
+	Loss: warp
+	Epochs: 20
+	Num of Components: 50
+	Alpha: 0.01
+	Precision at: 100
+mAP Train: 0.31626248359680176
+Time to evaluate Train: 11776.681745767593
+
+
+mAP Test: 0.21061840653419495
+Time to evaluate Test: 6643.038860797882
+
+
+LightFM Training Time: 4049.267425060272
+Parameters
+	Loss: warp
+	Epochs: 20
+	Num of Components: 50
+	Alpha: 0.1
+	Precision at: 10
+mAP Train: 0.7625299692153931
+Time to evaluate Train: 11610.285547733307
+
+
+mAP Test: 0.6625590920448303
+Time to evaluate Test: 6598.065957307816
+
+
+LightFM Training Time: 6331.8699543476105
+Parameters
+	Loss: warp
+	Epochs: 20
+	Num of Components: 100
+	Alpha: 0.1
+	Precision at: 10
+mAP Train: 0.7539575099945068
+Time to evaluate Train: 17902.910091876984
+
+
+mAP Test: 0.6535831093788147
+Time to evaluate Test: 11699.675098896027
